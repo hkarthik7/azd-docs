@@ -1,6 +1,7 @@
 org.azd.build
 org.azd.build.types
-org.azd.common
+org.azd.common.types
+org.azd.connection
 org.azd.core
 org.azd.core.types
 org.azd.enums
@@ -9,12 +10,17 @@ org.azd.feedmanagement
 org.azd.feedmanagement.types
 org.azd.git
 org.azd.git.types
+org.azd.graph
+org.azd.graph.types
 org.azd.interfaces
+org.azd.memberentitlementmanagement
+org.azd.memberentitlementmanagement.types
 org.azd.release
 org.azd.release.types
 org.azd.servicehooks
 org.azd.servicehooks.types
-org.azd.utils
+org.azd.wiki
+org.azd.wiki.types
 org.azd.work
 org.azd.work.types
 org.azd.workitemtracking
