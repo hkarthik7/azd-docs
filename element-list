@@ -9,13 +9,14 @@ org.azd.core
 org.azd.core.types
 org.azd.enums
 org.azd.exceptions
+org.azd.extensionmanagement
+org.azd.extensionmanagement.types
 org.azd.feedmanagement
 org.azd.feedmanagement.types
 org.azd.git
 org.azd.git.types
 org.azd.graph
 org.azd.graph.types
-org.azd.helpers
 org.azd.interfaces
 org.azd.memberentitlementmanagement
 org.azd.memberentitlementmanagement.types
@@ -23,6 +24,8 @@ org.azd.oauth
 org.azd.oauth.types
 org.azd.release
 org.azd.release.types
+org.azd.serviceendpoint
+org.azd.serviceendpoint.types
 org.azd.servicehooks
 org.azd.servicehooks.types
 org.azd.utils
