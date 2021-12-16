@@ -22,6 +22,10 @@ org.azd.memberentitlementmanagement
 org.azd.memberentitlementmanagement.types
 org.azd.oauth
 org.azd.oauth.types
+org.azd.pipelines
+org.azd.pipelines.types
+org.azd.policy
+org.azd.policy.types
 org.azd.release
 org.azd.release.types
 org.azd.serviceendpoint
