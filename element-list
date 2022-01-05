@@ -7,6 +7,8 @@ org.azd.common.types
 org.azd.connection
 org.azd.core
 org.azd.core.types
+org.azd.distributedtask
+org.azd.distributedtask.types
 org.azd.enums
 org.azd.exceptions
 org.azd.extensionmanagement
