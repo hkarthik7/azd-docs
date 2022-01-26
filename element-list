@@ -2,7 +2,6 @@ org.azd.accounts
 org.azd.accounts.types
 org.azd.build
 org.azd.build.types
-org.azd.common
 org.azd.common.types
 org.azd.connection
 org.azd.core
