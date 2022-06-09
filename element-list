@@ -19,7 +19,10 @@ org.azd.git
 org.azd.git.types
 org.azd.graph
 org.azd.graph.types
+org.azd.helpers
 org.azd.interfaces
+org.azd.maven
+org.azd.maven.types
 org.azd.memberentitlementmanagement
 org.azd.memberentitlementmanagement.types
 org.azd.oauth
@@ -34,6 +37,8 @@ org.azd.serviceendpoint
 org.azd.serviceendpoint.types
 org.azd.servicehooks
 org.azd.servicehooks.types
+org.azd.upack
+org.azd.upack.types
 org.azd.utils
 org.azd.wiki
 org.azd.wiki.types
