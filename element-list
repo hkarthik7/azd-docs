@@ -33,6 +33,8 @@ org.azd.policy
 org.azd.policy.types
 org.azd.release
 org.azd.release.types
+org.azd.security
+org.azd.security.types
 org.azd.serviceendpoint
 org.azd.serviceendpoint.types
 org.azd.servicehooks
