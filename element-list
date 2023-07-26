@@ -39,6 +39,8 @@ org.azd.serviceendpoint
 org.azd.serviceendpoint.types
 org.azd.servicehooks
 org.azd.servicehooks.types
+org.azd.test
+org.azd.test.types
 org.azd.upack
 org.azd.upack.types
 org.azd.utils
