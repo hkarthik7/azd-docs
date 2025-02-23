@@ -140,7 +140,16 @@ org.azd.servicehooks
 org.azd.servicehooks.subscriptions
 org.azd.servicehooks.types
 org.azd.test
+org.azd.test.attachments
+org.azd.test.codecoverage
+org.azd.test.iterations
+org.azd.test.points
+org.azd.test.results
 org.azd.test.runs
+org.azd.test.session
+org.azd.test.testcases
+org.azd.test.testhistory
+org.azd.test.testsuites
 org.azd.test.types
 org.azd.unittests
 org.azd.upack
