@@ -60,6 +60,7 @@ org.azd.git.blobs
 org.azd.git.commits
 org.azd.git.forks
 org.azd.git.items
+org.azd.git.policyconfigurations
 org.azd.git.pullrequest
 org.azd.git.pullrequests
 org.azd.git.pushes
@@ -107,6 +108,7 @@ org.azd.oauth.types
 org.azd.pipelines
 org.azd.pipelines.artifacts
 org.azd.pipelines.logs
+org.azd.pipelines.permissions
 org.azd.pipelines.pipelines
 org.azd.pipelines.preview
 org.azd.pipelines.runs
