@@ -2,6 +2,7 @@ org.azd
 org.azd.abstractions
 org.azd.abstractions.handlers
 org.azd.abstractions.internals
+org.azd.abstractions.pipelines
 org.azd.abstractions.proxy
 org.azd.abstractions.serializer
 org.azd.accounts
@@ -10,6 +11,7 @@ org.azd.accounts.profile
 org.azd.accounts.types
 org.azd.artifacts
 org.azd.artifacts.feedmanagement
+org.azd.artifacts.types
 org.azd.artifactspackagetypes
 org.azd.artifactspackagetypes.maven
 org.azd.artifactspackagetypes.types
@@ -32,7 +34,6 @@ org.azd.build.yaml
 org.azd.common
 org.azd.common.types
 org.azd.configurations
-org.azd.connection
 org.azd.core
 org.azd.core.processes
 org.azd.core.projects
@@ -52,8 +53,6 @@ org.azd.featuremanagement
 org.azd.featuremanagement.scope
 org.azd.featuremanagement.state
 org.azd.featuremanagement.types
-org.azd.feedmanagement
-org.azd.feedmanagement.types
 org.azd.git
 org.azd.git.annotatedtags
 org.azd.git.blobs
@@ -89,12 +88,8 @@ org.azd.helpers.release
 org.azd.helpers.serviceendpoint
 org.azd.helpers.workitemtracking
 org.azd.http
-org.azd.interfaces
-org.azd.legacy
 org.azd.locations
 org.azd.locations.types
-org.azd.maven
-org.azd.maven.types
 org.azd.memberentitlementmanagement
 org.azd.memberentitlementmanagement.groupentitlements
 org.azd.memberentitlementmanagement.memberentitlements
@@ -154,8 +149,6 @@ org.azd.test.testhistory
 org.azd.test.testsuites
 org.azd.test.types
 org.azd.unittests
-org.azd.upack
-org.azd.upack.types
 org.azd.utils
 org.azd.wiki
 org.azd.wiki.attachments
@@ -172,6 +165,7 @@ org.azd.work.types
 org.azd.workitemtracking
 org.azd.workitemtracking.attachments
 org.azd.workitemtracking.classificationnodes
+org.azd.workitemtracking.comments
 org.azd.workitemtracking.fields
 org.azd.workitemtracking.projectprocessmigration
 org.azd.workitemtracking.queries
