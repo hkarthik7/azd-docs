@@ -39,6 +39,11 @@ org.azd.core.processes
 org.azd.core.projects
 org.azd.core.teams
 org.azd.core.types
+org.azd.dashboard
+org.azd.dashboard.dashboards
+org.azd.dashboard.types
+org.azd.dashboard.widgets
+org.azd.dashboard.widgettypes
 org.azd.distributedtask
 org.azd.distributedtask.agents
 org.azd.distributedtask.deploymentgroups
@@ -175,5 +180,6 @@ org.azd.workitemtracking.tags
 org.azd.workitemtracking.types
 org.azd.workitemtracking.wiql
 org.azd.workitemtracking.workitems
+org.azd.workitemtracking.workitemtypecategories
 org.azd.workitemtracking.workitemtypes
 org.azd.workitemtracking.workitemtypesfield
